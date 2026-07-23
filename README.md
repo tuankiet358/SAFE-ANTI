@@ -31,13 +31,16 @@ License: MIT
 ├── README.md               
 ├── requirements.txt        
 └── Src/
+
 ├── config.py          
 ├── main.py             
 ├── utils/
 │        ├── embed.py        
 │        └── logger.py       
+
 └── cogs/
-└── anti/           
+└── anti/  
+
 ├── constants.py
 ├── helpers.py  
 ├── automod.py  
