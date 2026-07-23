@@ -31,21 +31,18 @@ License: MIT
 ├── README.md               
 ├── requirements.txt        
 └── Src/
-
 ├── config.py          
 ├── main.py             
 ├── utils/
-│        ├── embed.py        
-│        └── logger.py       
-
-└── cogs/
-└── anti/  
-
+│   ├── embed.py        
+│   ├── logger.py       
+├── cogs/
+├── anti/  
 ├── constants.py
 ├── helpers.py  
 ├── automod.py  
 ├── ui.py       
-└── cog.py      
+├── cog.py      
 
 ## 🚀 Getting Started
 
