@@ -30,19 +30,19 @@ License: MIT
 ├── .gitignore              
 ├── README.md               
 ├── requirements.txt        
-└── Src/
+└── Src
 ├── config.py          
 ├── main.py             
-├── utils/
+├── utils
 │   ├── embed.py        
-│   ├── logger.py       
-├── cogs/
-├── anti/  
+│   └── logger.py       
+├── cogs
+│   └── anti  
 ├── constants.py
 ├── helpers.py  
 ├── automod.py  
 ├── ui.py       
-├── cog.py      
+└── cog.py      
 
 ## 🚀 Getting Started
 
