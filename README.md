@@ -63,7 +63,7 @@ BOT_PREFIX=!
 python Src/main.py
 
 ## 📜 License
-Distributed under the **MIT License**. See LICENSE for details.
+Distributed under the **GPL-3.0**. See LICENSE for details.
 <div align="center">
   
 <sub>Made with **TWIN CORE** for Discord Communities</sub>
