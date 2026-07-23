@@ -65,5 +65,6 @@ python Src/main.py
 ## 📜 License
 Distributed under the **MIT License**. See LICENSE for details.
 <div align="center">
-<sub>Made with ❤️ for Discord Communities</sub>
+  
+<sub>Made with **TWIN CORE** for Discord Communities</sub>
 </div>
