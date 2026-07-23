@@ -34,8 +34,8 @@ License: MIT
 ├── config.py          
 ├── main.py             
 ├── utils/
-│   ├── embed.py        
-│   └── logger.py       
+│        ├── embed.py        
+│        └── logger.py       
 └── cogs/
 └── anti/           
 ├── constants.py
