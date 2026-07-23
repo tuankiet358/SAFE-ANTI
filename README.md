@@ -26,24 +26,24 @@ License: GPL-3.0
 
 ## 📂 Project Structure
 .
-├── .env.example            
-├── .gitignore              
-├── README.md               
-├── requirements.txt        
-└── Src
-├── config.py          
-├── main.py             
-├── utils
-│   ├── embed.py        
-│   └── logger.py       
-├── cogs
-│   └── anti  
-├── constants.py
-├── helpers.py  
-├── automod.py  
-├── ui.py       
-└── cog.py      
-
+├── .env.example
+├── .gitignore
+├── README.md
+├── requirements.txt
+└── Src/
+    ├── config.py
+    ├── main.py
+    ├── utils/
+    │   ├── embed.py
+    │   └── logger.py
+    └── cogs/
+        └── anti/
+            ├── constants.py
+            ├── helpers.py
+            ├── automod.py
+            ├── ui.py
+            └── cog.py
+            
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
