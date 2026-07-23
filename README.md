@@ -6,7 +6,7 @@ Python Version
 
 Discord.py
 
-License: MIT
+License: GPL-3.0
 </div>
 
 ## 📖 About The Project
