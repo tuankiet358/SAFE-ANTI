@@ -26,23 +26,23 @@ License: MIT
 
 ## 📂 Project Structure
 .
-├── .env.example            # Environment variables template
-├── .gitignore              # Excludes sensitive data and cache files
-├── README.md               # Project documentation
-├── requirements.txt        # Required Python packages
+├── .env.example            
+├── .gitignore              
+├── README.md               
+├── requirements.txt        
 └── Src/
-├── config.py           # Bot configuration (Tokens, Color codes, Emoji IDs)
-├── main.py             # Entry point & Extension loader
+├── config.py          
+├── main.py             
 ├── utils/
-│   ├── embed.py        # Embed generation helper
-│   └── logger.py       # Custom system logger
+│   ├── embed.py        
+│   └── logger.py       
 └── cogs/
-└── anti/           # Core Anti-Spam & Anti-Nuke module
-├── constants.py# Module constants, Regex patterns, Thresholds
-├── helpers.py  # Internal helper functions
-├── automod.py  # AutoMod rule management
-├── ui.py       # User Interfaces (Menus & Buttons)
-└── cog.py      # Event Listeners & Slash Commands
+└── anti/           
+├── constants.py
+├── helpers.py  
+├── automod.py  
+├── ui.py       
+└── cog.py      
 
 ## 🚀 Getting Started
 
