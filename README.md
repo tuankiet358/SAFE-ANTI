@@ -52,6 +52,7 @@
 ```
 SAFE-ANTI/
 ├── .env.example
+├── .env
 ├── .gitignore
 ├── LICENSE
 ├── README.md
