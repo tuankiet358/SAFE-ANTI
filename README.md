@@ -5,7 +5,8 @@
 <p><b>Comprehensive Discord Server Security and AutoMod Solution — High Performance and Professional</b></p>
 
 <p>
-  <a href="https://github.com/user-attachments/files/30338485/SAFE_ANTI_2.0.zip">
+  <a href="[![Download Release ZIP](https://img.shields.io/badge/DOWNLOAD_RELEASE_ZIP-2ea44f?style=for-the-badge&logoColor=white)](https://github.com/tuankiet358/SAFE-ANTI/releases/latest)
+">
     <img src="https://img.shields.io/badge/DOWNLOAD_RELEASE_ZIP-2ea44f?style=for-the-badge&logoColor=white" alt="Download Release ZIP" />
   </a>
   &nbsp;
