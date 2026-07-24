@@ -60,7 +60,7 @@ DISCORD_TOKEN=your_bot_token_here
 BOT_PREFIX=!
 
 ### 4. Running the Bot
-python Src/main.py
+gh repo clone tuankiet358/SAFE-ANTI
 
 ## 📜 License
 Distributed under the **GPL-3.0**. See LICENSE for details.
