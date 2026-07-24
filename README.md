@@ -133,6 +133,6 @@ python src/main.py
 
 <div align="center">
 
-<sub>Developed by <b>tuankiet358</b> | Produced and Developed by <b>TWIN CORE</b></sub>
+<sub>Produced and Developed by <b>TWIN CORE</b></sub>
 
 </div>
