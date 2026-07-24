@@ -13,9 +13,11 @@ Support
 <img src="[https://img.shields.io/badge/XEM_BAN_RELEASE_MOI_NHAT-0969da?style=for-the-badge&logoColor=white](https://img.shields.io/badge/XEM_BAN_RELEASE_MOI_NHAT-0969da?style=for-the-badge&logoColor=white)" alt="Latest Release" />
 </a>
 </div>
+
 ## Giới thiệu Dự án
 SAFE-ANTI là hệ thống Discord Bot chuyên dụng cho công tác bảo mật và kiểm duyệt máy chủ, phát triển trên nền tảng Python (discord.py v2) với kiến trúc Modular/Cog hiện đại.
 Hệ thống cung cấp lớp bảo vệ nhiều tầng giúp chống phá hoại (Anti-Nuke), kiểm soát thành viên quá khích, tích hợp Discord AutoMod API chuẩn xác và đi kèm giao diện tương tác trực quan bằng Buttons và Select Menus.
+
 ## Các Tính Năng Nổi Bật
 
 | Tính năng | Mô tả chi tiết |
