@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+" />
   <img src="https://img.shields.io/badge/discord.py-v2-5865F2?style=flat-square&logo=discord&logoColor=white" alt="discord.py v2" />
   <img src="https://img.shields.io/badge/Architecture-Modular%20Cog-orange?style=flat-square" alt="Modular Cog Architecture" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
+  <img src="https://img.shields.io/badge/License-GPL-3.0-green?style=flat-square" alt="License" />
 </p>
 
 </div>
