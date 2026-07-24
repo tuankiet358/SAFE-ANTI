@@ -106,7 +106,7 @@ Copy `.env.example` to `.env` and populate the required values:
 
 ```env
 DISCORD_TOKEN=your_bot_token_here
-BOT_PREFIX=!
+BOT_PREFIX=your_bot_prefix_here
 ```
 
 ### Step 3 — Run the Bot
